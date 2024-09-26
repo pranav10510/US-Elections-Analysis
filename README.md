@@ -16,3 +16,7 @@
 Together, we explored the political landscape through the lens of data and Power BI, and it’s been a fascinating journey. 💡
 
 👉 Swipe through the screenshots and watch the screen recording to see our interactive Power BI dashboard in action! It’s amazing to see how data can uncover election trends and offer insights into what might happen in 2024.
+<img width="959" alt="Projectss3" src="https://github.com/user-attachments/assets/dc204a1a-1b36-4449-8520-0ddf8c12ac19">
+
+<img width="959" alt="Projectss1" src="https://github.com/user-attachments/assets/67d4b913-495a-4542-8036-80b516105a50">
+<img width="958" alt="Projectss2" src="https://github.com/user-attachments/assets/d9eb7c51-01b5-4e59-b932-650d1a372a2c">
